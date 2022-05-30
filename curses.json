@@ -2,8 +2,9 @@
     {
         "templeName": "MATEMATICAS",
         "location": "Profesora: Iris Ayala",        
-        "imageUrl": "https://www.conmishijos.com/uploads/tareas_escolares/fichasmates6anos.jpg"
-    },
+        "imageUrl": "https://www.conmishijos.com/uploads/tareas_escolares/fichasmates6anos.jpg",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/math.html"
+    },  
     {
         "templeName": "ARTES VISUALES",
         "location": "Profesora: Iris Ayala",        

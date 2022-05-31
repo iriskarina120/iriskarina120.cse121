@@ -1,53 +1,53 @@
 [
     {
-        "templeName": "MATEMATICAS",
-        "location": "Profesora: Iris Ayala",        
+        "curseName": "MATEMATICAS",
+        "teacher": "Profesora: Iris Ayala",        
         "imageUrl": "https://www.conmishijos.com/uploads/tareas_escolares/fichasmates6anos.jpg",
         "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/math.html"
     },  
     {
-        "templeName": "ARTES VISUALES",
-        "location": "Profesora: Iris Ayala",        
+        "curseName": "ARTES VISUALES",
+        "teacher": "Profesora: Iris Ayala",        
         "imageUrl": "https://www.escolapiosaluche.com/wp-content/uploads/2016/04/Artes-Pl%C3%A1sticas.jpg"
     },
     {
-        "templeName": "MUSICA",
-        "location": "Profesora: Iris Ayala",        
+        "curseName": "MUSICA",
+        "teacher": "Profesora: Iris Ayala",        
         "imageUrl": "https://i.pinimg.com/originals/35/76/40/3576401281746dccab8fadd11da94dfe.jpg"
     },
     {
-        "templeName": "ORIENTACION",
-        "location": "Profesora: Iris Ayala",        
+        "curseName": "ORIENTACION",
+        "teacher": "Profesora: Iris Ayala",        
         "imageUrl": "https://eu01.edcwb.com/educanews/interface/images/noticies/19068-a932ee2e9d074c45907d1cae47bea6f1.jpg"
     },
     {
-        "templeName": "TECNOLOGIA",
-        "location": "Profesora: Iris Ayala",       
+        "curseName": "TECNOLOGIA",
+        "teacher": "Profesora: Iris Ayala",       
         "imageUrl": "https://colegiobilinguesantaana.es/wp-content/uploads/2019/10/tecnologia-octubre19.jpg"
     },
     {
-        "templeName": "LENGUAJE",
-        "location": "Profesora: Laura Paz",        
+        "curseName": "LENGUAJE",
+        "teacher": "Profesora: Laura Paz",        
         "imageUrl": "https://actividadesinfantil.com/wp-content/uploads/2012/09/ni%C3%B1os-leyendo-1.jpg"
     },
     {
-        "templeName": "HISTORIA",
-        "location": "Profesora: Ana Cacique",       
+        "curseName": "HISTORIA",
+        "teacher": "Profesora: Ana Cacique",       
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Los_Fundadores_de_Chile.jpg"
     },
     {
-        "templeName": "CIENCIAS NATURALES",
-        "location": "Profesora: Enyuvic Luna",        
+        "curseName": "CIENCIAS NATURALES",
+        "teacher": "Profesora: Enyuvic Luna",        
         "imageUrl": "https://sites.google.com/site/cienciasnaturaleschar/_/rsrc/1498696108691/home/ciencias-naturales.png"
     },
     {
-        "templeName": "EDUCACION FISICA",
-        "location": "Profesora: Barbara Villarroel",        
+        "curseName": "EDUCACION FISICA",
+        "teacher": "Profesora: Barbara Villarroel",        
         "imageUrl": "https://media.istockphoto.com/photos/sports-teacher-and-group-of-kids-exercising-during-physical-activity-picture-id1331594995?k=20&m=1331594995&s=612x612&w=0&h=kxOmoZwrgi9NOvFmMSEE_LiO6e8Z8JwFTETmM3zkvZg="        
     },
     {
-        "templeName": "RELIGION",
-        "location": "Profesora: Patricia Sanchez",        
+        "curseName": "RELIGION",
+        "teacher": "Profesora: Patricia Sanchez",        
         "imageUrl": "https://cdn.goconqr.com/uploads/node/image/67628896/27178dbc-106f-4065-833e-e5a3b8ead6fd.jpg"
     }    
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "curseName": "MATEMATICAS",
+        "curseName": "MATEMÁTICAS",
         "teacher": "Profesora: Iris Ayala",        
         "imageUrl": "https://www.conmishijos.com/uploads/tareas_escolares/fichasmates6anos.jpg",
         "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/math.html"
@@ -11,17 +11,17 @@
         "imageUrl": "https://www.escolapiosaluche.com/wp-content/uploads/2016/04/Artes-Pl%C3%A1sticas.jpg"
     },
     {
-        "curseName": "MUSICA",
+        "curseName": "MÚSICA",
         "teacher": "Profesora: Iris Ayala",        
         "imageUrl": "https://i.pinimg.com/originals/35/76/40/3576401281746dccab8fadd11da94dfe.jpg"
     },
     {
-        "curseName": "ORIENTACION",
+        "curseName": "ORIENTACIÓN",
         "teacher": "Profesora: Iris Ayala",        
         "imageUrl": "https://eu01.edcwb.com/educanews/interface/images/noticies/19068-a932ee2e9d074c45907d1cae47bea6f1.jpg"
     },
     {
-        "curseName": "TECNOLOGIA",
+        "curseName": "TECNOLOGÍA",
         "teacher": "Profesora: Iris Ayala",       
         "imageUrl": "https://colegiobilinguesantaana.es/wp-content/uploads/2019/10/tecnologia-octubre19.jpg"
     },
@@ -41,7 +41,7 @@
         "imageUrl": "https://sites.google.com/site/cienciasnaturaleschar/_/rsrc/1498696108691/home/ciencias-naturales.png"
     },
     {
-        "curseName": "EDUCACION FISICA",
+        "curseName": "EDUCACIÓN FÍSICA",
         "teacher": "Profesora: Barbara Villarroel",        
         "imageUrl": "https://media.istockphoto.com/photos/sports-teacher-and-group-of-kids-exercising-during-physical-activity-picture-id1331594995?k=20&m=1331594995&s=612x612&w=0&h=kxOmoZwrgi9NOvFmMSEE_LiO6e8Z8JwFTETmM3zkvZg="        
     },

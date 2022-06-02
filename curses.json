@@ -8,46 +8,56 @@
     {
         "curseName": "ARTES VISUALES",
         "teacher": "Profesora: Iris Ayala",        
-        "imageUrl": "https://www.escolapiosaluche.com/wp-content/uploads/2016/04/Artes-Pl%C3%A1sticas.jpg"
+        "imageUrl": "https://www.escolapiosaluche.com/wp-content/uploads/2016/04/Artes-Pl%C3%A1sticas.jpg",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/art.html"
+        
     },
     {
         "curseName": "MÚSICA",
         "teacher": "Profesora: Iris Ayala",        
-        "imageUrl": "https://i.pinimg.com/originals/35/76/40/3576401281746dccab8fadd11da94dfe.jpg"
+        "imageUrl": "https://i.pinimg.com/originals/35/76/40/3576401281746dccab8fadd11da94dfe.jpg",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/music.html"
     },
     {
         "curseName": "ORIENTACIÓN",
         "teacher": "Profesora: Iris Ayala",        
-        "imageUrl": "https://eu01.edcwb.com/educanews/interface/images/noticies/19068-a932ee2e9d074c45907d1cae47bea6f1.jpg"
+        "imageUrl": "https://eu01.edcwb.com/educanews/interface/images/noticies/19068-a932ee2e9d074c45907d1cae47bea6f1.jpg",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/orientation.html"
     },
     {
         "curseName": "TECNOLOGÍA",
         "teacher": "Profesora: Iris Ayala",       
-        "imageUrl": "https://colegiobilinguesantaana.es/wp-content/uploads/2019/10/tecnologia-octubre19.jpg"
+        "imageUrl": "https://colegiobilinguesantaana.es/wp-content/uploads/2019/10/tecnologia-octubre19.jpg",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/tech.html"
     },
     {
         "curseName": "LENGUAJE",
-        "teacher": "Profesora: Laura Paz",        
-        "imageUrl": "https://actividadesinfantil.com/wp-content/uploads/2012/09/ni%C3%B1os-leyendo-1.jpg"
+        "teacher": "Profesora: Laura Arango",        
+        "imageUrl": "https://actividadesinfantil.com/wp-content/uploads/2012/09/ni%C3%B1os-leyendo-1.jpg",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/lenguage.html"
     },
     {
         "curseName": "HISTORIA",
         "teacher": "Profesora: Ana Cacique",       
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Los_Fundadores_de_Chile.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Los_Fundadores_de_Chile.jpg",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/history.html"
     },
     {
         "curseName": "CIENCIAS NATURALES",
-        "teacher": "Profesora: Enyuvic Luna",        
-        "imageUrl": "https://sites.google.com/site/cienciasnaturaleschar/_/rsrc/1498696108691/home/ciencias-naturales.png"
+        "teacher": "Profesora: Enyuvic Urdaneta",        
+        "imageUrl": "https://sites.google.com/site/cienciasnaturaleschar/_/rsrc/1498696108691/home/ciencias-naturales.png",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/science.html"
     },
     {
         "curseName": "EDUCACIÓN FÍSICA",
         "teacher": "Profesora: Barbara Villarroel",        
-        "imageUrl": "https://media.istockphoto.com/photos/sports-teacher-and-group-of-kids-exercising-during-physical-activity-picture-id1331594995?k=20&m=1331594995&s=612x612&w=0&h=kxOmoZwrgi9NOvFmMSEE_LiO6e8Z8JwFTETmM3zkvZg="        
+        "imageUrl": "https://media.istockphoto.com/photos/sports-teacher-and-group-of-kids-exercising-during-physical-activity-picture-id1331594995?k=20&m=1331594995&s=612x612&w=0&h=kxOmoZwrgi9NOvFmMSEE_LiO6e8Z8JwFTETmM3zkvZg=",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/sports.html"       
     },
     {
-        "curseName": "RELIGION",
-        "teacher": "Profesora: Patricia Sanchez",        
-        "imageUrl": "https://cdn.goconqr.com/uploads/node/image/67628896/27178dbc-106f-4065-833e-e5a3b8ead6fd.jpg"
+        "curseName": "RELIGIÓN",
+        "teacher": "Profesora: Patricia González",        
+        "imageUrl": "https://cdn.goconqr.com/uploads/node/image/67628896/27178dbc-106f-4065-833e-e5a3b8ead6fd.jpg",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/religion.html"
     }    
 ]
